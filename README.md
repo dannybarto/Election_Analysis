@@ -11,26 +11,22 @@ We have been hired to conduct an audit of the most recent congressional election
 
 ## Resources
 
-Data Source: election_results.csv
-Software: Python 3.7.6
-Sofware: Microsoft Visual Studio Code
+- Data Source: election_results.csv
+- Software: Python 3.7.6
+- Sofware: Microsoft Visual Studio Code
 
 ## Summary
 
-Election Results
-...
+- Election Results
 
-Total Votes: 369,711
-...
+- Total Votes: 369,711
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
-...
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
 
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
-...
+- Winner: Diana DeGette
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
 
 
