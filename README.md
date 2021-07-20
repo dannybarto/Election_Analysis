@@ -1,6 +1,6 @@
 # Election_Analysis
 
-#Project Scope
+## Project Scope
 
 We have been hired to conduct an audit of the most recent congressional election covering Arapahoe, Denver, and Jefferson counties. The areas we will include the following. 
 
@@ -9,13 +9,13 @@ We have been hired to conduct an audit of the most recent congressional election
 - Calculate the percentage of the total votes cast that each candidate recieved
 - Determine the winner of the election
 
-#Resources
+## Resources
 
 Data Source: election_results.csv
 Software: Python 3.7.6
 Sofware: Microsoft Visual Studio Code
 
-#Summary
+## Summary
 
 Election Results
 -------------------------
