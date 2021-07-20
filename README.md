@@ -10,11 +10,13 @@ We have been hired to conduct an audit of the most recent congressional election
 - Determine the winner of the election
 
 ##Resources
+
 Data Source: election_results.csv
 Software: Python 3.7.6
 Sofware: Microsoft Visual Studio Code
 
 ##Summary
+
 Election Results
 -------------------------
 Total Votes: 369,711
