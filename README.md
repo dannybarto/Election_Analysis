@@ -42,4 +42,9 @@ We have been hired to conduct an audit of the most recent congressional election
   -  Winning Vote Count: 272,892
   -  Winning Percentage: 73.8%
 
+- #### Election Audit Summary
+  - This script can be used for virtually any election. It can be scaled for statewide or even nationwide
+  - One way we could modify the script would be to look a breakout of each candidate's vote by county 
+  - We could even change this to drill down into city data
+  - The applications are pretty broad for this script as it can be used to evaluate not just places but people or people at certain income levels
 
