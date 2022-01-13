@@ -1,5 +1,6 @@
 # Election_Analysis
 
+
 ## Project Scope
 
 We have been hired to conduct an audit of the most recent congressional election covering Arapahoe, Denver, and Jefferson counties. The areas we will include the following. 
